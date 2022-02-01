@@ -18,8 +18,8 @@
   - An [app](https://github.com/csepulveda7/SpotApp) that used ML to identify breeds of dogs and show you where you could adopt them 
 
 - 📫 How to reach me:
-  - via email: L.Saber36@gmail.com
-  - via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
-  - via [Instagram](https://www.instagram.com/luke.saber/)
+  - Via email: L.Saber36@gmail.com
+  - Via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
+  - Via [Instagram](https://www.instagram.com/luke.saber/)
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LSaber36&count_private=true&show_icons=true&theme=solarized-light)
