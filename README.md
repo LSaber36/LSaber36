@@ -13,8 +13,8 @@
   - Technically interesting
 
 - 📆 Past projects I'm proud of:
+  - An [electric skateboard](https://github.com/LSaber36/Electric_Skateboard_V2) (V2), where I developed all firmware and circuits from scratch 
   - An [autonomous robot](https://github.com/LSaber36/IEEE_UCF_Hardware_Competition_MotherShip) whose goal was to navigate an arena to collect blocks, sort them, and place them in a target position
-  - An [electric skateboard](https://github.com/LSaber36/Electric_Skateboard_V2) (V2), where I developed all firmware and circuits from scratch
   - An [app](https://github.com/csepulveda7/SpotApp) that used ML to identify breeds of dogs and show you where you could adopt them 
 
 - 📫 How to reach me:
