@@ -18,6 +18,7 @@
   - An [autonomous robot](https://github.com/LSaber36/IEEE_UCF_Hardware_Competition_MotherShip) whose goal was to navigate an arena to collect blocks, sort them, and place them in a target position
   - An [app](https://github.com/csepulveda7/SpotApp) that used ML to identify breeds of dogs and show you where you could adopt them
   - An [automatic chessboard](https://github.com/ucfai/knightros-gambit) with a custom chess AI
+  - A [smart outlet & companion app](https://github.com/LSaber36/smart-outlet) that allows a user to toggle power and track power usage
 
 - 📫 How to reach me:
   - Via email: L.Saber36@gmail.com
