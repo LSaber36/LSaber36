@@ -21,7 +21,7 @@
   - A [smart outlet & companion app](https://github.com/LSaber36/smart-outlet) that allows a user to toggle power and track power usage
 
 - 📫 How to reach me:
-  - Via email: L.Saber36@gmail.com
+  - Via L.Saber36@gmail.com
   - Via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
   - Via [Instagram](https://www.instagram.com/luke.saber/)
 
