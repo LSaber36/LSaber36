@@ -5,12 +5,13 @@
   - I attended [UCF](https://www.ucf.edu/) in Orlando, FL
   - I'm currently working on a digital dashboard for my living room with google assistant and smart home functionalities
 
-- 🔨 My past work experience includes an internship at:
-  - [Deloitte](https://www2.deloitte.com/us/en.html), where I worked on a team developing a website and learned about SQL
+- 🔨 My work experience includes:
+  - Internship at [Deloitte](https://www2.deloitte.com/us/en.html), where I worked on a team developing a website and learned about SQL
+  - Validation Engineering at [Texas Instruments](https://www.ti.com/), where I've contributed to validation on multiple parts across two product lines
 
 - 👯 I’m looking to collaborate on projects that are:
   - Impactful to society
-  - An opportunity to learn
+  - Provide learning opportunities
   - Technically interesting
 
 - 📆 Past projects I'm proud of:
@@ -19,10 +20,10 @@
   - An [app](https://github.com/csepulveda7/SpotApp) that used ML to identify breeds of dogs and show you where you could adopt them
   - An [automatic chessboard](https://github.com/ucfai/knightros-gambit) with a custom chess AI
   - A [smart outlet & companion app](https://github.com/LSaber36/smart-outlet) that allows a user to toggle power and track power usage
+  - A [traffic cam viewer](https://github.com/LSaber36/traffic_cam_viewer) that allows me to monitor weather conditions in california via traffic cameras
 
 - 📫 How to reach me:
-  - Via L.Saber36@gmail.com
+  - Via [L.Saber36@gmail.com](mailto:L.Saber36@gmail.com)
   - Via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
-  - Via [Instagram](https://www.instagram.com/luke.saber/)
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LSaber36&count_private=true&show_icons=true&theme=solarized-light)
