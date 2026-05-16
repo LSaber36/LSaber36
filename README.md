@@ -25,5 +25,3 @@
 - 📫 How to reach me:
   - Via L.Saber36@gmail.com
   - Via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
-
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LSaber36&count_private=true&show_icons=true&theme=solarized-light)
