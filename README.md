@@ -23,7 +23,7 @@
   - A [traffic cam viewer](https://github.com/LSaber36/traffic_cam_viewer) that allows me to monitor weather conditions in california via traffic cameras
 
 - 📫 How to reach me:
-  - Via [L.Saber36@gmail.com](mailto:L.Saber36@gmail.com)
+  - Via [![L.Saber36@gmail.com](mailto:L.Saber36@gmail.com)]
   - Via [LinkedIn](https://www.linkedin.com/in/lucas-saber/)
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LSaber36&count_private=true&show_icons=true&theme=solarized-light)
